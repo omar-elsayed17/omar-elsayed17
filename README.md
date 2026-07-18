@@ -1,6 +1,6 @@
 # Hi 👋 I'm Omar elsayed
 
-Backend Laravel Developer
+Backend PHP/Laravel Developer
 
 ## 🛠️ Tech Stack
 
